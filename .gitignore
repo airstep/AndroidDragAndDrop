@@ -1,0 +1,9 @@
+.gradle
+/build/intermediates
+/app/build
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/resource
+/build
